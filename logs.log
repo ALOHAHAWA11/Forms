@@ -1,0 +1,36 @@
+2023-01-10 01:36:15,941 :: INFO :: Start of app
+2023-01-10 01:36:15,941 :: INFO :: Start of socket's configuration
+2023-01-10 01:36:15,941 :: INFO :: End of socket's configuration
+2023-01-10 01:36:34,142 :: INFO :: Unpacking of received data
+2023-01-10 01:36:34,143 :: INFO :: Success unpacking
+2023-01-10 01:36:34,143 :: INFO :: Parse of request's params. Form necessary data structures
+2023-01-10 01:36:34,143 :: INFO :: Validate data
+2023-01-10 01:36:34,144 :: INFO :: Connect to database
+2023-01-10 01:36:34,150 :: INFO :: Searching of forms from db
+2023-01-10 01:36:34,177 :: INFO :: There is matched form!
+2023-01-10 01:36:34,181 :: INFO :: Form content
+2023-01-10 01:36:34,188 :: INFO :: Unpacking of received data
+2023-01-10 01:36:34,189 :: INFO :: Success unpacking
+2023-01-10 01:36:34,189 :: INFO :: Parse of request's params. Form necessary data structures
+2023-01-10 01:36:34,189 :: INFO :: Validate data
+2023-01-10 01:36:34,189 :: INFO :: Connect to database
+2023-01-10 01:36:34,192 :: INFO :: Searching of forms from db
+2023-01-10 01:36:34,211 :: INFO :: There is matched form!
+2023-01-10 01:36:34,212 :: INFO :: There is matched form!
+2023-01-10 01:36:34,217 :: INFO :: Form content
+2023-01-10 01:36:34,222 :: INFO :: Unpacking of received data
+2023-01-10 01:36:34,222 :: INFO :: Success unpacking
+2023-01-10 01:36:34,222 :: INFO :: Parse of request's params. Form necessary data structures
+2023-01-10 01:36:34,223 :: INFO :: Validate data
+2023-01-10 01:36:34,223 :: INFO :: Connect to database
+2023-01-10 01:36:34,225 :: INFO :: Searching of forms from db
+2023-01-10 01:36:34,249 :: INFO :: Generate new pattern
+2023-01-10 01:36:34,252 :: INFO :: Form content
+2023-01-10 01:36:34,259 :: INFO :: Unpacking of received data
+2023-01-10 01:36:34,259 :: INFO :: Success unpacking
+2023-01-10 01:36:34,259 :: INFO :: Parse of request's params. Form necessary data structures
+2023-01-10 01:36:34,259 :: INFO :: Validate data
+2023-01-10 01:36:34,260 :: INFO :: Connect to database
+2023-01-10 01:36:34,262 :: INFO :: Searching of forms from db
+2023-01-10 01:36:34,280 :: INFO :: There is matched form!
+2023-01-10 01:36:34,284 :: INFO :: Form content
